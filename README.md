@@ -9,7 +9,7 @@
 ### <i> About </i>
 
 <img src = "https://komarev.com/ghpvc/?username=NeonCody&style=flat-square"> 
-<img src = "https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/594853883742912512&logo=discord&logoColor=white&style=flat-square"> 
+<img src = "https://img.shields.io/endpoint?label=status&url=https://dev.discordprofiles.me/api/badge/status/575213773376192522&logo=discord&logoColor=white&style=flat-square"> 
 <img src = "https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/594853883742912512?vscode=false&logo=nintendo-switch&color=8A96E9&style=flat-square"> 
 <br>
 <img src = "https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/594853883742912512&style=flat-square"> 
