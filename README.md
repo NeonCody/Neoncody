@@ -28,7 +28,7 @@
 <div align = "center">
 
 #### <i> GitHub Readme Stats </i>
-<img src = "https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"> 
+<img src = "https://github-readme-stats.vercel.app/api?username=NeonCody&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&count_private=true&langs_count=10&hide_border=true&title_color=0a0a0a&icon_color=0a0a0a&text_color=0a0a0a&bg_color=ffffff">
 
