@@ -1,4 +1,4 @@
-[<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
+[<img src="https://cdn.discordapp.com/attachments/748022032632905825/802476207554953216/20210123_151832.jpg">](https://NeonCody.github.io/)
 
 <div align = "center">
 
