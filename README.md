@@ -1,3 +1,7 @@
+[<img src="https://cdn.discordapp.com/attachments/638624243390611466/735122949832704040/xynox-banner.png">](https://arindamz.github.io/)
+
+<div align = "center">
+
 I'm Neil Mestry. You can call me NeonCody if you want, or you can call me Neil. I'm a passionate cricketer,gfx artist & developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.
 
 </div>
